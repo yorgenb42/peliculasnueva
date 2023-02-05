@@ -1,6 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Gato con botas- El último deseo" tvg-country="es" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mMRKee.png" group-title="Series",Gato con botas- El último deseo (1080p)
+#EXTINF:-1 tvg-id="Gato con botas- El último deseo" tvg-country="es" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7mMRKee.png" group-title="CINE",Gato con botas- El último deseo (1080p)
 https://od.lk/s/M18yODcwMTYyMzBf/Gato%20con%20botas-%20El%20%C3%BAltimo%20deseo.mp4
-#EXTINF:-1 tvg-id="Rey Sakir La Película" tvg-country="es" tvg-language="Spanish" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/eTgFwoqoBv5uVdnWMhiR7TuS3MJ.jpg" group-title="Series",Rey Sakir La Película (1080p)
+#EXTINF:-1 tvg-id="Rey Sakir La Película" tvg-Mirame="es" tvg-language="Spanish" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/eTgFwoqoBv5uVdnWMhiR7TuS3MJ.jpg" group-title="CINE",Rey Sakir La Película (1080p)
 https://od.lk/s/M18yODY5NjQyMzRf/Rey%20Sakir%20La%20Pel%C3%ADcula.mp4
+#EXTINF:-1 tvg-id=" Mirame" tvg-Mirame="es" tvg-language="Spanish" tvg-logo="https://pics.filmaffinity.com/M_rame-350956231-mmed.jpg" group-title="TERROR",Mirame(1080p)
+https://od.lk/s/M18yODY5NzkyMjdf/Mirame.2022.mp4
